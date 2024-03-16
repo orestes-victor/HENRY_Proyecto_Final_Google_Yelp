@@ -10,7 +10,7 @@
 
 ### Estructura del repositorio
 
-├─ [assets/](https://github.com/orestes-victor/HENRY_Proyecto_Final_Google_Yelp/assets) _Contiene recursos multimedia, imágenes u otros activos utilizados en el proyecto._<br />
+├─ [assets/](/assets) _Contiene recursos multimedia, imágenes u otros activos utilizados en el proyecto._<br />
 ├─ [dashboard/](https://github.com/orestes-victor/HENRY_Proyecto_Final_Google_Yelp/dashboard) _Incluye archivos relacionados con la creación y desarrollo de un panel interactivo._<br />
 ├─ [datasets/](https://github.com/orestes-victor/HENRY_Proyecto_Final_Google_Yelp/datasets) _Almacena los conjuntos de datos utilizados en el proyecto, organizados en carpetas separadas para archivos csv y parquet._<br />
 ├─ [deploy_ml/](https://github.com/orestes-victor/HENRY_Proyecto_Final_Google_Yelp/deploy_ml) _Esta carpeta abarca todos los elementos relacionados con el despliegue de modelos de aprendizaje automático en Google Cloud.
