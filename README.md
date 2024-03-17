@@ -124,17 +124,8 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
 
 |      |      |      |
 | :--: | :--: | :--: |
-| ![Marco](assets/Foto_perfil_Marco.jpg)<br>**Marco**<br>[![LinkedIn](assets/linkedin.png)](LINK_LINKEDIN_INTEGRANTE1) [![GitHub](assets/github.png)](LINK_GITHUB_INTEGRANTE1) | ![Paulo](assets/Foto_perfil_Paulo.jpg)<br>**Paulo**<br>[![LinkedIn](assets/linkedin.png)](LINK_LINKEDIN_INTEGRANTE2) [![GitHub](assets/github.png)](LINK_GITHUB_INTEGRANTE2) | ![Kevin](assets/Foto_perfil_Kevin.jpg)<br>**Kevin**<br>[![LinkedIn](assets/linkedin.png)](LINK_LINKEDIN_INTEGRANTE3) [![GitHub](assets/github.png) |
-| ![Edgar](assets/Foto_perfil_Edgar.jpg)<br>**Edgar**<br>[![LinkedIn](assets/linkedin.png)](LINK_LINKEDIN_INTEGRANTE4) [![GitHub](assets/github.png)](LINK_GITHUB_INTEGRANTE4) | ![Victor](assets/Foto_perfil_Victor.jpg)<br>**Victor**<br>[![LinkedIn](assets/linkedin.png)](https://www.linkedin.com/in/orestesvictor/) [![GitHub](assets/github.png)](https://github.com/orestes-victor) | ![Fernanda](assets/Foto_perfil_Fer.jpg)<br>**Fer**<br>[![LinkedIn](assets/linkedin.png)](LINK_LINKEDIN_INTEGRANTE6) [![GitHub](assets/github.png)](LINK_GITHUB_INTEGRANTE6) |
-
-
-|      |      |      |
-| :--: | :--: | :--: |
 | ![Marco](assets/Foto_perfil_Marco.jpg)<br>**Marco**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE1) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE1) | ![Paulo](assets/Foto_perfil_Paulo.jpg)<br>**Paulo**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE2) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE2) | ![Kevin](assets/Foto_perfil_Kevin.jpg)<br>**Kevin**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE3) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE3) |
 | ![Edgar](assets/Foto_perfil_Edgar.jpg)<br>**Edgar**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE4) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE4) | ![Victor](assets/Foto_perfil_Victor.jpg)<br>**Victor**<br>[<img src="assets/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/orestesvictor/) [<img src="assets/github.png" style="width:20px;">](https://github.com/orestes-victor) | ![Fernanda](assets/Foto_perfil_Fer.jpg)<br>**Fer**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE6) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE6) |
-
-
-
 
 ## Licencia
 
