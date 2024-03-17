@@ -7,6 +7,9 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-333333?style=flat&logo=microsoft)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-333333?style=flat&logo=googlecloud)
 
 # Análisis de Sentimientos en Reseñas de Google Maps y Yelp
 
