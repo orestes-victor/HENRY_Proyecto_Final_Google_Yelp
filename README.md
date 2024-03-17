@@ -1,4 +1,4 @@
-![Bidating](assets/Bidating_readme.png)
+![Bidating](assets/Portada_readme.png)
 <br />
 
 # Análisis de Sentimientos en Reseñas de Google Maps y Yelp
