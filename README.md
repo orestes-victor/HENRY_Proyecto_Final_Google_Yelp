@@ -1,22 +1,12 @@
 ![Bidating](assets/Portada_readme.png)
 <br />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-[Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=flat&logo=scikit-learn)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 # Análisis de Sentimientos en Reseñas de Google Maps y Yelp
 
