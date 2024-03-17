@@ -100,12 +100,12 @@ Utilizamos Scrum como nuestra principal metodología de gestión de proyectos, p
 </details>
 
 ## Equipo BIDATING
-- **Victor**
 - **Paulo**
 - **Fernanda**
 - **Marco**
 - **Edgar**
 - **Kevin**
+- **Victor**
 
 ## Licencia
 
