@@ -72,16 +72,20 @@ Este proyecto se enfoca en el análisis de sentimientos de reseñas de Yelp y Go
 Utilizamos Scrum como nuestra principal metodología de gestión de proyectos, permitiéndonos trabajar de manera ágil y adaptativa. Otras metodologías que consideramos útiles incluyen Kanban para la gestión de tareas y Lean para optimizar nuestros procesos de trabajo.
 
 <details>
-<summary>Explorar la metodología SCRUM de Bidating</summary>
-  
-  ### Sprint 1
+<summary>Explorar la metodología SCRUM usada por Bidating en este proyecto</summary>
+
   <details>
-    <summary>Haz clic para expandir</summary>
-  
-    Aquí va el contenido que quieres que sea expandible. Puedes incluir texto, enlaces, imágenes, o incluso otro Markdown.
-  
+  ### Sprint 1
   </details>
 
+  <details>
+  ### Sprint 2
+  </details>
+
+  <details>
+  ### Sprint 3
+  </details>
+  
 </details>
 
 ## Equipo BIDATING
