@@ -1,6 +1,13 @@
 ![Bidating](assets/Portada_readme.png)
 <br />
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 # Análisis de Sentimientos en Reseñas de Google Maps y Yelp
 
 ### Proyecto Final - Bootcamps de Ciencia de Datos Henry
@@ -14,6 +21,7 @@
 - Roadmap
 - Alcance del Proyecto
 - Metodología de Trabajo
+- Fuente de datos
 - Equipo BIDATING
 - Licencia
 
@@ -72,25 +80,43 @@ Este proyecto se enfoca en el análisis de sentimientos de reseñas de Yelp y Go
 Utilizamos Scrum como nuestra principal metodología de gestión de proyectos, permitiéndonos trabajar de manera ágil y adaptativa. Otras metodologías que consideramos útiles incluyen Kanban para la gestión de tareas y Lean para optimizar nuestros procesos de trabajo.
 
 <details>
-<summary>Explorar la metodología SCRUM de Bidating</summary>
-  
-  # Sprint 1
+<summary>Explorar la metodología SCRUM usada por Bidating en este proyecto</summary><br />
+
   <details>
-    <summary>Haz clic para expandir</summary>
-  
-    Aquí va el contenido que quieres que sea expandible. Puedes incluir texto, enlaces, imágenes, o incluso otro Markdown.
-  
+  <summary>Sprint 1</summary>
+     Contenido aqui
   </details>
 
+  <details>
+  <summary>Sprint 2</summary>
+     Contenido aqui
+  </details>
+
+  <details>
+  <summary>Sprint 3</summary>
+     Contenido aqui
+  </details>
+  
 </details>
 
+## Fuente de Datos
+
+Este proyecto se basa en un conjunto de datos extenso y detallado para el análisis de sentimientos sobre reseñas de Google Maps y Yelp. Estos datos son fundamentales para comprender las tendencias del mercado, las preferencias de los usuarios y para el desarrollo de modelos predictivos eficaces.
+
+Puedes acceder a los datos a través de los siguientes enlaces:
+
+- [Datos de Yelp](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA)
+- [Datos de Google Maps](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF)
+
+Estos conjuntos de datos incluyen información detallada sobre ubicaciones comerciales, categorías, puntajes promedio, reseñas de usuarios, y más. Han sido recopilados con el propósito de proporcionar una base sólida para análisis cualitativo y cuantitativo, apoyando así la toma de decisiones informadas en el sector de restaurantes y turismo.
+
 ## Equipo BIDATING
-- **Victor**
 - **Paulo**
 - **Fernanda**
 - **Marco**
 - **Edgar**
 - **Kevin**
+- **Victor**
 
 ## Licencia
 
