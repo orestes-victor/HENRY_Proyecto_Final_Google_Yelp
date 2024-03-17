@@ -1,4 +1,4 @@
-![Steam](assets/Portada_Bidating_gif.gif)
+![Steam](assets/Bidating_readme.png)
 <br />
 
 # Análisis de Sentimientos en Reseñas de Google Maps y Yelp
