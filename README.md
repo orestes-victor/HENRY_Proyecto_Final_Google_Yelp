@@ -171,8 +171,8 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
     <div style="width: 150px; background-color: black; padding: 20px; text-align: center; margin: 10px;">
       <img src="URL_FOTO_INTEGRANTE5" alt="Integrante 5" style="width: 100%; border: none;">
       <div style="margin-top: 20px;">
-        <a href="LINK_LINKEDIN_INTEGRANTE5"><img src="URL_LOGO_LINKEDIN" alt="LinkedIn" style="width: 30px; margin-right: 10px;"></a>
-        <a href="LINK_GITHUB_INTEGRANTE5"><img src="URL_LOGO_GITHUB" alt="GitHub" style="width: 30px;"></a>
+        <a href="https://www.linkedin.com/in/orestesvictor/"><img src="https://img.freepik.com/psd-gratis/cuadrado-redondeado-3d-logotipo-brillante-linkedin_125540-3030.jpg?w=826&t=st=1710692021~exp=1710692621~hmac=f64ed67d9c486dcc34d06d8e4e422a5cf59c1a188a7d9815ce7b8dc4288a19d5" alt="LinkedIn" style="width: 30px; margin-right: 10px;"></a>
+        <a href="https://github.com/orestes-victor"><img src="URL_LOGO_GITHUB" alt="GitHub" style="width: 30px;"></a>
       </div>
     </div>
     <!-- Integrante 6 -->
