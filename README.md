@@ -21,6 +21,7 @@
 - Roadmap
 - Alcance del Proyecto
 - Metodología de Trabajo
+- Fuente de datos
 - Equipo BIDATING
 - Licencia
 
@@ -97,6 +98,17 @@ Utilizamos Scrum como nuestra principal metodología de gestión de proyectos, p
   </details>
   
 </details>
+
+## Fuente de Datos
+
+Este proyecto se basa en un conjunto de datos extenso y detallado para el análisis de sentimientos sobre reseñas de Google Maps y Yelp. Estos datos son fundamentales para comprender las tendencias del mercado, las preferencias de los usuarios y para el desarrollo de modelos predictivos eficaces.
+
+Puedes acceder a los datos a través de los siguientes enlaces:
+
+- [Datos de Yelp](https://drive.google.com/drive/folders/1Wf7YkxA0aHI3GpoHc9Nh8_scf5BbD4DA)
+- [Datos de Google Maps](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF)
+
+Estos conjuntos de datos incluyen información detallada sobre ubicaciones comerciales, categorías, puntajes promedio, reseñas de usuarios, y más. Han sido recopilados con el propósito de proporcionar una base sólida para análisis cualitativo y cuantitativo, apoyando así la toma de decisiones informadas en el sector de restaurantes y turismo.
 
 ## Equipo BIDATING
 - **Paulo**
