@@ -121,12 +121,13 @@ Estos conjuntos de datos incluyen información detallada sobre ubicaciones comer
 La elección adecuada del stack tecnológico en ciencia de datos es clave para maximizar la eficiencia y el rendimiento, garantizar la escalabilidad, facilitar la colaboración, simplificar el mantenimiento y asegurar una integración fluida. Elegir correctamente permite alinear las herramientas con las necesidades específicas del proyecto, mejorando su capacidad para resolver problemas y adaptarse a cambios futuros, lo que resulta fundamental para el éxito y la sostenibilidad del proyecto.
 
 ## Equipo BIDATING
-- **Paulo**
-- **Fernanda**
-- **Marco**
-- **Edgar**
-- **Kevin**
-- **Victor**
+
+|      |      |      |
+| :--: | :--: | :--: |
+| ![Marco](assets/Foto_perfil_Marco.jpg)<br>**Marco**<br>[![LinkedIn](https://www.flaticon.es/icono-gratis/linkedin_3536505)](LINK_LINKEDIN_INTEGRANTE1) [![GitHub](https://www.flaticon.es/icono-gratis/github_733553)](LINK_GITHUB_INTEGRANTE1) | ![Paulo](assets/Foto_perfil_Paulo.jpg)<br>**Paulo**<br>[![LinkedIn](https://www.flaticon.es/icono-gratis/linkedin_3536505)](LINK_LINKEDIN_INTEGRANTE2) [![GitHub](https://www.flaticon.es/icono-gratis/github_733553)](LINK_GITHUB_INTEGRANTE2) | ![Kevin](assets/Foto_perfil_Kevin.jpg)<br>**Kevin**<br>[![LinkedIn](https://www.flaticon.es/icono-gratis/linkedin_3536505)](LINK_LINKEDIN_INTEGRANTE3) [![GitHub](https://www.flaticon.es/icono-gratis/github_733553)](LINK_GITHUB_INTEGRANTE3) |
+| ![Edgar](assets/Foto_perfil_Edgar.jpg)<br>**Edgar**<br>[![LinkedIn](https://www.flaticon.es/icono-gratis/linkedin_3536505)](LINK_LINKEDIN_INTEGRANTE4) [![GitHub](https://www.flaticon.es/icono-gratis/github_733553)](LINK_GITHUB_INTEGRANTE4) | ![Victor](assets/Foto_perfil_Victor.jpg)<br>**Victor**<br>[![LinkedIn](https://www.flaticon.es/icono-gratis/linkedin_3536505)](https://www.linkedin.com/in/orestesvictor/) [![GitHub](https://www.flaticon.es/icono-gratis/github_733553)](https://github.com/orestes-victor) | ![Fernanda](URL_FOTO_INTEGRANTE6)<br>**Fer**<br>[![LinkedIn](https://www.flaticon.es/icono-gratis/linkedin_3536505)](LINK_LINKEDIN_INTEGRANTE6) [![GitHub](https://www.flaticon.es/icono-gratis/github_733553)](LINK_GITHUB_INTEGRANTE6) |
+
+
 
 ## Licencia
 
