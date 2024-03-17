@@ -25,6 +25,7 @@
 - Alcance del Proyecto
 - Metodología de Trabajo
 - Fuente de datos
+- Stack Tecnológico
 - Equipo BIDATING
 - Licencia
 
@@ -112,6 +113,12 @@ Puedes acceder a los datos a través de los siguientes enlaces:
 - [Datos de Google Maps](https://drive.google.com/drive/folders/1TI-SsMnZsNP6t930olEEWbBQdo_yuIZF)
 
 Estos conjuntos de datos incluyen información detallada sobre ubicaciones comerciales, categorías, puntajes promedio, reseñas de usuarios, y más. Han sido recopilados con el propósito de proporcionar una base sólida para análisis cualitativo y cuantitativo, apoyando así la toma de decisiones informadas en el sector de restaurantes y turismo.
+
+## Stack Tecnológico
+
+![StackTecnológico](assets/Stack_tecnológico.png)
+
+La elección adecuada del stack tecnológico en ciencia de datos es clave para maximizar la eficiencia y el rendimiento, garantizar la escalabilidad, facilitar la colaboración, simplificar el mantenimiento y asegurar una integración fluida. Elegir correctamente permite alinear las herramientas con las necesidades específicas del proyecto, mejorando su capacidad para resolver problemas y adaptarse a cambios futuros, lo que resulta fundamental para el éxito y la sostenibilidad del proyecto.
 
 ## Equipo BIDATING
 - **Paulo**
