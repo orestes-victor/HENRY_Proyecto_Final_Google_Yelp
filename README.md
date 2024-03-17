@@ -1,6 +1,9 @@
 ![Bidating](assets/Portada_readme.png)
 <br />
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+
 # Análisis de Sentimientos en Reseñas de Google Maps y Yelp
 
 ### Proyecto Final - Bootcamps de Ciencia de Datos Henry
