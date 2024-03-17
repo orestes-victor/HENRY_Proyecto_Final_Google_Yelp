@@ -75,15 +75,15 @@ Utilizamos Scrum como nuestra principal metodología de gestión de proyectos, p
 <summary>Explorar la metodología SCRUM usada por Bidating en este proyecto</summary>
 
   <details>
-  ### Sprint 1
+  <summary>### Sprint 1</summary>
   </details>
 
   <details>
-  ### Sprint 2
+  <summary>### Sprint 2</summary>
   </details>
 
   <details>
-  ### Sprint 3
+  <summary>### Sprint 3</summary>
   </details>
   
 </details>
