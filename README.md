@@ -129,18 +129,9 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
 - **Victor**
 
 |      |      |      |
-|      |      |      |
-| ![Marco](assets/Foto_perfil_Marco.jpg)<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE1) [GitHub](LINK_GITHUB_INTEGRANTE1) | ![Paulo](assets/Foto_perfil_Paulo.jpg)<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE2) [GitHub](LINK_GITHUB_INTEGRANTE2) | ![Kevin](assets/Foto_perfil_Kevin.jpg)<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE3) [GitHub](LINK_GITHUB_INTEGRANTE3) |
-| ![Edgar](assets/Foto_perfil_Edgar.jpg)<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE4) [GitHub](LINK_GITHUB_INTEGRANTE4) | ![Victor](assets/Foto_perfil_Victor.jpg)<br>[LinkedIn](https://www.linkedin.com/in/orestesvictor/) [GitHub](https://github.com/orestes-victor) | ![Fernanda](URL_FOTO_INTEGRANTE6)<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE6) [GitHub](LINK_GITHUB_INTEGRANTE6) |
-
-
-|      |      |      |
-|      |      |      |
-| ![Marco](URL_FOTO_REDUCIDA_MARCO)<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/xxxxxxx/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/xxxxxxx) | ![Paulo](URL_FOTO_REDUCIDA_PAULO)<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/xxxxxxx/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/xxxxxxx) | ![Kevin](URL_FOTO_REDUCIDA_KEVIN)<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/xxxxxxx/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/xxxxxxx) |
-| ![Edgar](URL_FOTO_REDUCIDA_EDGAR)<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/xxxxxxx/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/xxxxxxx) | ![Victor](URL_FOTO_REDUCIDA_VICTOR)<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/orestesvictor/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/orestes-victor) | ![Fernanda](URL_FOTO_REDUCIDA_FERNANDA)<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/xxxxxxx/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/xxxxxxx) |
-
-
-
+| :--: | :--: | :--: |
+| ![Marco](URL_FOTO_REDUCIDA_MARCO)<br>**Marco**<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/xxxxxxx/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/xxxxxxx) | ![Paulo](URL_FOTO_REDUCIDA_PAULO)<br>**Paulo**<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/xxxxxxx/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/xxxxxxx) | ![Kevin](URL_FOTO_REDUCIDA_KEVIN)<br>**Kevin**<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/xxxxxxx/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/xxxxxxx) |
+| ![Edgar](URL_FOTO_REDUCIDA_EDGAR)<br>**Edgar**<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/xxxxxxx/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/xxxxxxx) | ![Victor](URL_FOTO_REDUCIDA_VICTOR)<br>**Victor**<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/orestesvictor/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/orestes-victor) | ![Fernanda](URL_FOTO_REDUCIDA_FERNANDA)<br>**Fernanda**<br>[![LinkedIn](URL_LOGO_LINKEDIN)](https://www.linkedin.com/in/xxxxxxx/) [![GitHub](URL_LOGO_GITHUB)](https://github.com/xxxxxxx) |
 
 
 ## Licencia
