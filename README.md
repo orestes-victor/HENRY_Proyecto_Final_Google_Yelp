@@ -8,8 +8,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://simpleicons.org/icons/python.svg" width="40" height="40" /> <img src="https://simpleicons.org/icons/microsoftpowerbi.svg" width="40" height="40" /> <img src="https://simpleicons.org/icons/jupyter.svg" width="40" height="40" />
-
 # Análisis de Sentimientos en Reseñas de Google Maps y Yelp
 
 ### Proyecto Final - Bootcamps de Ciencia de Datos Henry
