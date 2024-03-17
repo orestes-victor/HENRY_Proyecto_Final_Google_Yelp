@@ -43,24 +43,26 @@ Aquí se describe la hoja de ruta del proyecto, detallando las fases principales
 
 <details>
 <summary>Explorar roadmap</summary>
-  **De Datos a Decisiones Estratégicas**
+ 
+**"Hoja de Ruta: De Datos a Decisiones Estratégicas"**
 
-    A continuación, se detallan los puntos clave de nuestra hoja de ruta, los cuales nos guiarán desde la recolección de datos hasta la implementación estratégica      de decisiones basadas en análisis avanzado.
-    
-    **Recolección y Limpieza de Datos**
-    **Objetivo**: Identificar y preparar datos de Yelp y Google Maps para asegurar la calidad analítica.
-    
-    **Análisis de Datos e Insights**
-    **Objetivo**: Realizar análisis exploratorio y utilizar NLP para descubrir tendencias y opiniones de usuarios.
-    
-    **Desarrollo de Modelo de Machine Learning**
-    **Objetivo**: Seleccionar y entrenar un modelo predictivo para estrategias de mercado y recomendaciones.
-    
-    **Evaluación y Optimización del Modelo**
-     **Objetivo**: Realizar pruebas exhaustivas y ajustes del modelo para maximizar su precisión y eficacia.
-    
-    **Implementación y Recolección de Feedback**
-    **Objetivo**: Desplegar el modelo, recoger feedback y realizar ajustes para una optimización continua.
+### Puntos Clave:
+
+1. **Recolección y Limpieza de Datos**
+   - Identificación y preparación de datos de Yelp y Google Maps para asegurar la calidad analítica.
+
+2. **Análisis de Datos e Insights**
+   - Análisis exploratorio y uso de NLP para descubrir tendencias y opiniones de usuarios.
+
+3. **Desarrollo de Modelo de Machine Learning**
+   - Selección y entrenamiento de un modelo predictivo para estrategias de mercado y recomendaciones.
+
+4. **Evaluación y Optimización del Modelo**
+   - Pruebas exhaustivas y ajustes del modelo para maximizar su precisión y eficacia.
+
+5. **Implementación y Recolección de Feedback**
+   - Despliegue del modelo, recopilación de feedback y ajustes para optimización continua.
+
     
 </details>
 
