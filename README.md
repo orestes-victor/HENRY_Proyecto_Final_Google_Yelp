@@ -18,16 +18,16 @@
 > _Esta actividad (puramente educativa) corresponde al proyecto final del Bootcamp Henry - Ciencia de Datos. Es parte de nuestro portafolio de prácticas que nos ha permitido mejorar habilidades en Ciencia de Datos con problemas y conjuntos de datos del mundo real._
 
 ## Índice
-- Introducción
-- Contexto
-- Estructura del Repositorio
-- Roadmap
-- Alcance del Proyecto
-- Metodología de Trabajo
-- Fuente de datos
-- Stack Tecnológico
-- Equipo BIDATING
-- Licencia
+- [Introducción](#Introducción)
+- [Contexto](#Contexto)
+- [Estructura del Repositorio](#Estructura-del-Repositorio)
+- [Roadmap](#Roadmap)
+- [Alcance del Proyecto](#Alcance-del-Proyecto)
+- [Metodología de Trabajo](#Metodología-de-Trabajo)
+- [Fuente de datos](#Fuente-de-datos)
+- [Stack Tecnológico](#Stack-Tecnológico)
+- [Equipo BIDATING](#Equipo-BIDATING)
+- [Licencia](#Licencia)
 
 ## Introducción
 Bienvenidos al repositorio del proyecto BIDATING, donde "building decisions" se encuentra con el análisis de datos. Nuestro objetivo es proporcionar insights valiosos a través del análisis de sentimientos de las reseñas de Yelp y Google Maps, para mejorar las estrategias de negocio en el sector de restaurantes y turismo.
