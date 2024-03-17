@@ -36,7 +36,7 @@ La opinión de los usuarios es invaluable, creciendo exponencialmente a través 
 ├─ [videos](/videos) _En esta carpeta, se almacenan archivos relacionados con material visual, como tutoriales, demostraciones o cualquier contenido multimedia en formato de video que sea relevante para el proyecto._<br />
 
 ## Roadmap
-Aquí se describe la hoja de ruta del proyecto, detallando las fases principales y objetivos.
+Aquí se describe la hoja de ruta del proyecto, detallando las fases principales.
 
 ![Bidating](assets/Roadmap.png)
 <br />
