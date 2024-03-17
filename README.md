@@ -69,5 +69,8 @@ Utilizamos Scrum como nuestra principal metodología de gestión de proyectos, p
 - **Kevin**
 
 ## Licencia
-Este proyecto está licenciado bajo [Licencia XYZ]. Consulte el archivo LICENSE para más detalles.
+
+Este proyecto está bajo la Licencia MIT, lo que permite el uso, modificación y distribución libres. Para más detalles, vea el archivo [LICENSE](LICENSE) en este repositorio.
+
+
 
