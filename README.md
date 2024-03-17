@@ -19,3 +19,13 @@
 ├─ [notebooks](/notebooks) _Aquí, encontrarás cuadernos Jupyter u otros documentos relacionados con la exploración y análisis de datos como ETL/EDA. 
 ├─ [sources](/sources) _Esta carpeta contiene scripts y módulos de Python relacionados con el procesamiento de datos, utilidades y funcionalidad del backend. Si buscas los cuadernos Jupyter o documentos relacionados con la exploración y análisis de datos, revisa la carpeta notebooks._<br /> 
 ├─ [videos](/videos) _En esta carpeta, se almacenan archivos relacionados con material visual, como tutoriales, demostraciones o cualquier contenido multimedia en formato de video que sea relevante para el proyecto._<br />
+
+
+# Sprint 1
+<details>
+  <summary>Haz clic para expandir</summary>
+  
+  Aquí va el contenido que quieres que sea expandible. Puedes incluir texto, enlaces, imágenes, o incluso otro Markdown.
+  
+</details>
+
