@@ -133,7 +133,7 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
   <div style="flex-basis: 100%; display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
     <!-- Integrante 1 -->
     <div style="width: 150px; background-color: black; padding: 20px; text-align: center; margin: 10px;">
-      <img src="URL_FOTO_INTEGRANTE1" alt="Integrante 1" style="width: 100%; border: none;">
+      <img src="assets/Foto_perfil_Marco.jpg" alt="Marco" style="width: 100%; border: none;">
       <div style="margin-top: 20px;">
         <a href="LINK_LINKEDIN_INTEGRANTE1"><img src="URL_LOGO_LINKEDIN" alt="LinkedIn" style="width: 30px; margin-right: 10px;"></a>
         <a href="LINK_GITHUB_INTEGRANTE1"><img src="URL_LOGO_GITHUB" alt="GitHub" style="width: 30px;"></a>
@@ -141,7 +141,7 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
     </div>
     <!-- Integrante 2 -->
     <div style="width: 150px; background-color: black; padding: 20px; text-align: center; margin: 10px;">
-      <img src="URL_FOTO_INTEGRANTE2" alt="Integrante 2" style="width: 100%; border: none;">
+      <img src="assets/Foto_perfil_Paulo.jpg" alt="Paulo" style="width: 100%; border: none;">
       <div style="margin-top: 20px;">
         <a href="LINK_LINKEDIN_INTEGRANTE2"><img src="URL_LOGO_LINKEDIN" alt="LinkedIn" style="width: 30px; margin-right: 10px;"></a>
         <a href="LINK_GITHUB_INTEGRANTE2"><img src="URL_LOGO_GITHUB" alt="GitHub" style="width: 30px;"></a>
@@ -149,7 +149,7 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
     </div>
     <!-- Integrante 3 -->
     <div style="width: 150px; background-color: black; padding: 20px; text-align: center; margin: 10px;">
-      <img src="URL_FOTO_INTEGRANTE3" alt="Integrante 3" style="width: 100%; border: none;">
+      <img src="assets/Foto_perfil_Kevin.jpg" alt="Kevin" style="width: 100%; border: none;">
       <div style="margin-top: 20px;">
         <a href="LINK_LINKEDIN_INTEGRANTE3"><img src="URL_LOGO_LINKEDIN" alt="LinkedIn" style="width: 30px; margin-right: 10px;"></a>
         <a href="LINK_GITHUB_INTEGRANTE3"><img src="URL_LOGO_GITHUB" alt="GitHub" style="width: 30px;"></a>
@@ -161,7 +161,7 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
   <div style="flex-basis: 100%; display: flex; justify-content: space-around; align-items: center;">
     <!-- Integrante 4 -->
     <div style="width: 150px; background-color: black; padding: 20px; text-align: center; margin: 10px;">
-      <img src="URL_FOTO_INTEGRANTE4" alt="Integrante 4" style="width: 100%; border: none;">
+      <img src="assets/Foto_perfil_Edgar.jpg" alt="Edgar" style="width: 100%; border: none;">
       <div style="margin-top: 20px;">
         <a href="LINK_LINKEDIN_INTEGRANTE4"><img src="URL_LOGO_LINKEDIN" alt="LinkedIn" style="width: 30px; margin-right: 10px;"></a>
         <a href="LINK_GITHUB_INTEGRANTE4"><img src="URL_LOGO_GITHUB" alt="GitHub" style="width: 30px;"></a>
@@ -169,7 +169,7 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
     </div>
     <!-- Integrante 5 -->
     <div style="width: 150px; background-color: black; padding: 20px; text-align: center; margin: 10px;">
-      <img src="URL_FOTO_INTEGRANTE5" alt="Integrante 5" style="width: 100%; border: none;">
+      <img src="assets/Foto_perfil_Victor.jpg" alt="Victor" style="width: 100%; border: none;">
       <div style="margin-top: 20px;">
         <a href="https://www.linkedin.com/in/orestesvictor/"><img src="URL_LOGO_LINKEDIN" alt="LinkedIn" style="width: 30px; margin-right: 10px;"></a>
         <a href="https://github.com/orestes-victor"><img src="URL_LOGO_GITHUB" alt="GitHub" style="width: 30px;"></a>
@@ -177,7 +177,7 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
     </div>
     <!-- Integrante 6 -->
     <div style="width: 150px; background-color: black; padding: 20px; text-align: center; margin: 10px;">
-      <img src="URL_FOTO_INTEGRANTE6" alt="Integrante 6" style="width: 100%; border: none;">
+      <img src="URL_FOTO_INTEGRANTE6" alt="Fernanda" style="width: 100%; border: none;">
       <div style="margin-top: 20px;">
         <a href="LINK_LINKEDIN_INTEGRANTE6"><img src="URL_LOGO_LINKEDIN" alt="LinkedIn" style="width: 30px; margin-right: 10px;"></a>
         <a href="LINK_GITHUB_INTEGRANTE6"><img src="URL_LOGO_GITHUB" alt="GitHub" style="width: 30px;"></a>
