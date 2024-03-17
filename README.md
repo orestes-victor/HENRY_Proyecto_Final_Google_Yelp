@@ -20,6 +20,10 @@
 ├─ [sources](/sources) _Esta carpeta contiene scripts y módulos de Python relacionados con el procesamiento de datos, utilidades y funcionalidad del backend. Si buscas los cuadernos Jupyter o documentos relacionados con la exploración y análisis de datos, revisa la carpeta notebooks._<br /> 
 ├─ [videos](/videos) _En esta carpeta, se almacenan archivos relacionados con material visual, como tutoriales, demostraciones o cualquier contenido multimedia en formato de video que sea relevante para el proyecto._<br />
 
+# Introducción
+
+
+
 
 # Sprint 1
 <details>
@@ -28,4 +32,58 @@
   Aquí va el contenido que quieres que sea expandible. Puedes incluir texto, enlaces, imágenes, o incluso otro Markdown.
   
 </details>
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Proyecto BIDATING: Análisis de Sentimientos en Reseñas de Yelp y Google Maps
+
+## Introducción
+Bienvenidos al repositorio del proyecto BIDATING, donde "building decisions" se encuentra con el análisis de datos. Nuestro objetivo es proporcionar insights valiosos a través del análisis de sentimientos de las reseñas de Yelp y Google Maps, para mejorar las estrategias de negocio en el sector de restaurantes y turismo.
+
+## Contexto
+La opinión de los usuarios es invaluable, creciendo exponencialmente a través de plataformas de reseñas como Yelp y Google Maps. Este proyecto busca analizar estas reseñas para predecir tendencias de mercado y mejorar la toma de decisiones en el sector de restaurantes y turismo.
+
+## Índice
+- Introducción
+- Contexto
+- Estructura del Repositorio
+- Roadmap
+- Alcance del Proyecto
+- Metodología de Trabajo
+- Equipo BIDATING
+- Licencia
+
+## Estructura del Repositorio
+data/: Carpeta que contiene los datasets utilizados.
+docs/: Documentación del proyecto.
+notebooks/: Jupyter notebooks con análisis y modelos.
+src/: Código fuente del proyecto.
+LICENSE
+README.md
+
+
+## Roadmap
+Aquí se describe la hoja de ruta del proyecto, detallando las fases principales y objetivos.
+
+## Alcance del Proyecto
+Este proyecto se enfoca en el análisis de sentimientos de reseñas de Yelp y Google Maps en Estados Unidos, con el objetivo de identificar oportunidades de crecimiento y áreas de mejora para negocios en el sector de restaurantes y turismo.
+
+## Metodología de Trabajo
+Utilizamos Scrum como nuestra principal metodología de gestión de proyectos, permitiéndonos trabajar de manera ágil y adaptativa. Otras metodologías que consideramos útiles incluyen Kanban para la gestión de tareas y Lean para optimizar nuestros procesos de trabajo.
+
+## Equipo BIDATING
+- **Victor**
+- **Paulo**
+- **Fernanda**
+- **Marco**
+- **Edgar**
+- **Kevin**
+
+![Victor](link-a-foto-de-victor)  
+...  
+(Continuar con los demás miembros)
+
+## Licencia
+Este proyecto está licenciado bajo [Licencia XYZ]. Consulte el archivo LICENSE para más detalles.
 
