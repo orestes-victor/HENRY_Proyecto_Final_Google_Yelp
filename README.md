@@ -130,8 +130,8 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
 
 |      |      |      |
 | :--: | :--: | :--: |
-| ![Marco](assets/Foto_perfil_Marco.jpg)<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE1) [GitHub](LINK_GITHUB_INTEGRANTE1) | ![Paulo](assets/Foto_perfil_Paulo.jpg)<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE2) [GitHub](LINK_GITHUB_INTEGRANTE2) | ![Kevin](assets/Foto_perfil_Kevin.jpg)<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE3) [GitHub](LINK_GITHUB_INTEGRANTE3) |
-| ![Edgar](assets/Foto_perfil_Edgar.jpg)<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE4) [GitHub](LINK_GITHUB_INTEGRANTE4) | ![Victor](assets/Foto_perfil_Victor.jpg)<br>[LinkedIn](https://www.linkedin.com/in/orestesvictor/) [GitHub](https://github.com/orestes-victor) | ![Fernanda](URL_FOTO_INTEGRANTE6)<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE6) [GitHub](LINK_GITHUB_INTEGRANTE6) |
+| ![Marco](assets/Foto_perfil_Marco.jpg)<br>**Marco**<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE1) [GitHub](LINK_GITHUB_INTEGRANTE1) | ![Paulo](assets/Foto_perfil_Paulo.jpg)<br>**Paulo**<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE2) [GitHub](LINK_GITHUB_INTEGRANTE2) | ![Kevin](assets/Foto_perfil_Kevin.jpg)<br>**Kevin**<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE3) [GitHub](LINK_GITHUB_INTEGRANTE3) |
+| ![Edgar](assets/Foto_perfil_Edgar.jpg)<br>**Edgar**<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE4) [GitHub](LINK_GITHUB_INTEGRANTE4) | ![Victor](assets/Foto_perfil_Victor.jpg)<br>**Victor**<br>[LinkedIn](https://www.linkedin.com/in/orestesvictor/) [GitHub](https://github.com/orestes-victor) | ![Fernanda](URL_FOTO_INTEGRANTE6)<br>**Fer**<br>[LinkedIn](LINK_LINKEDIN_INTEGRANTE6) [GitHub](LINK_GITHUB_INTEGRANTE6) |
 
 ## Licencia
 
