@@ -1,4 +1,4 @@
-![Steam](assets/Bidating_readme.png)
+![Bidating](assets/Bidating_readme.png)
 <br />
 
 # Análisis de Sentimientos en Reseñas de Google Maps y Yelp
@@ -37,6 +37,9 @@ La opinión de los usuarios es invaluable, creciendo exponencialmente a través 
 
 ## Roadmap
 Aquí se describe la hoja de ruta del proyecto, detallando las fases principales y objetivos.
+
+![Bidating](assets/Roadmap.png)
+<br />
 
 ## Alcance del Proyecto
 Este proyecto se enfoca en el análisis de sentimientos de reseñas de Yelp y Google Maps en Estados Unidos, con el objetivo de identificar oportunidades de crecimiento y áreas de mejora para negocios en el sector de restaurantes y turismo.
