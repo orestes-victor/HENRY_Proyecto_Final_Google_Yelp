@@ -30,7 +30,7 @@
 - [Licencia](#Licencia)
 
 ## Introducción
-Bienvenidos al repositorio del proyecto BIDATING, donde "building decisions" se encuentra con el análisis de datos. Nuestro objetivo es proporcionar insights valiosos a través del análisis de sentimientos de las reseñas de Yelp y Google Maps, para mejorar las estrategias de negocio en el sector de restaurantes y turismo.
+Bienvenidos al repositorio del proyecto BIDATING, donde agregamos valor "construyendo decisiones". Nuestro objetivo es proporcionar insights valiosos a través del análisis de sentimientos de las reseñas de Yelp y Google Maps, para mejorar las estrategias de negocio en el sector de restaurantes y turismo.
 
 ## Contexto
 La opinión de los usuarios es invaluable, creciendo exponencialmente a través de plataformas de reseñas como Yelp y Google Maps. Este proyecto busca analizar estas reseñas para predecir tendencias de mercado y mejorar la toma de decisiones en el sector de restaurantes y turismo.
