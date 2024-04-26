@@ -120,6 +120,12 @@ Estos conjuntos de datos incluyen información detallada sobre ubicaciones comer
 
 La elección adecuada del stack tecnológico en ciencia de datos es clave para maximizar la eficiencia y el rendimiento, garantizar la escalabilidad, facilitar la colaboración, simplificar el mantenimiento y asegurar una integración fluida. Elegir correctamente permite alinear las herramientas con las necesidades específicas del proyecto, mejorando su capacidad para resolver problemas y adaptarse a cambios futuros, lo que resulta fundamental para el éxito y la sostenibilidad del proyecto.
 
+## KPI
+
+El promedio de reseñas, el impacto del proyecto y la reputación online
+
+![KPI](assets/KPI.png)
+
 ## Equipo BIDATING
 
 |      |      |      |
