@@ -122,7 +122,16 @@ La elección adecuada del stack tecnológico en ciencia de datos es clave para m
 
 ## KPI
 
-El promedio de reseñas, el impacto del proyecto y la reputación online
+El promedio de reseñas, el impacto del proyecto y la reputación online. A continuación se describen los fundamentos de cada uno de ellos.
+
+El promedio de reseñas
+El promedio de reseñas refleja la satisfacción general de los clientes con la experiencia en el hotel. Las reseñas proporcionan una retroalimentación directa de los huéspedes sobre diversos aspectos, como el servicio al cliente, la limpieza, las comodidades, la calidad de las habitaciones, etc.
+
+El impacto del proyecto
+El impacto del proyecto se refiere a los cambios tangibles que la expansión de la cadena de hoteles Wyndham tiene en diversos aspectos, como ingresos, cuota de mercado, satisfacción del cliente, etc.
+
+Reputación online
+La reputación online se refiere a la percepción general del hotel por parte de los clientes en plataformas digitales como TripAdvisor, Google Reviews, Booking.com, entre otras. Incluye el promedio de reseñas, comentarios positivos y negativos, y la respuesta del hotel a las críticas.
 
 ![KPI](assets/KPI.png)
 
