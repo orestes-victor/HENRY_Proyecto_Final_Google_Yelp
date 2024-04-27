@@ -88,17 +88,59 @@ Utilizamos Scrum como nuestra principal metodología de gestión de proyectos, p
 
   <details>
   <summary>Sprint 1</summary>
-     Contenido aqui
+     En esta semana deben realizar un análisis del proyecto seleccionado y los datos disponibles. En base al entendimiento que logren de la temática, deben proponer como encararla, brindando una solución o herramientas desarrolladas por ellos mismos para acercarse a dicha solución.
+
+
+Esta propuesta deberá contemplar los siguientes ítems:
+
+
+Entendimiento de la situación actual
+En la propuesta debe quedar manifiesto un adecuado manejo de la problemática, deben poder contextualizarla y expresar posibles análisis/ soluciones en torno a la misma.
+
+Objetivos
+Los objetivos deben ser acciones concretas (verbos) que describan claramente lo que buscan lograr con el proyecto. Desarrollar, crear, hacer, etc.
+
+
+Alcance
+Las temáticas suelen ser amplias y pueden admitir tratamientos mucho más abarcativos en extensión y magnitud de lo que puede realizarse durante el desarrollo del proyecto.
+
+Es por esto que deberán delimitar su trabajo definiendo el alcance y las tareas/desarrollos que puedan considerar importantes para la integridad del proyecto pero que por complejidad o tiempo, estén fuera de alcance.
+
+Esto último pueden plantearlo como posibilidades de continuidad del proyecto.
+
+
+Objetivos y KPIs asociados (planteo)
+Del entendimiento de la problemática surgirán cuestiones que se buscarán resolver con el trabajo o las herramientas desarrolladas. Estas cuestiones, formuladas como objetivos, admitirán la creación de KPIs para evaluar su cumplimiento. Es una tarea muy abarcativa y a la vez muy específica en torno tanto a la problemática como al enfoque elegido.
+
+
+Repositorio Github
+Armar un repositorio de Github para trabajar colaborativamente con todo el grupo. Debe ser público para que lo pueda ver tanto el mentor como el Product Owner. Van a tener que llevar adelante diferentes branches y controles de versiones de su propio trabajo.
+
+
+Solución propuesta
+Deben detallar qué tareas harán para cumplir los objetivos de trabajo propuestos previamente y cómo lo harán (metodologías de trabajo, forma de organización, distribución de tareas, roles de cada uno dentro del equipo, etc). También, deben detallar qué productos surgirán de su trabajo y en qué etapa los presentarán, teniendo en cuenta los requerimientos generales (entregables esperados) para cada etapa del proyecto.
   </details>
 
   <details>
   <summary>Sprint 2</summary>
-     Contenido aqui
+     En la continuación de la primera semana, se espera que trabajen montando la infraestructura de su proyecto, con pipelines para realizar el proceso de ETL apuntando a estructuras de tipo Data Warehouse, Datalake o Datalakehouse, contemplando la carga incremental de datos.
+
+
+Deben usar herramientas de big data y/o servicios cloud de su preferencia. En caso de que el grupo esté integrado por cinco personas, es obligatorio su utilización. De ser menos, se espera que también puedan usar estas herramientas. El PO, de ser necesario, les indicará si la arquitectura del proyecto es acorde a lo que se espera de ustedes. Por ejemplo, no se puede solo trabajar los datos con Python y almacenarlos localmente.
+
+
+En el caso de usar modelos relacionales en sus estructuras de almacenamiento, deben entregar un diseño adecuado y detallado del modelo entidad relación, especificando las tablas, relaciones y tipos de datos adoptados.
+
+
+En el caso de que vayan a utilizar modelos no relacionales, debería hacer una explicación de porque consideran su implementación por sobre los otros modelos, siempre respaldando las decisiones que tomen.
   </details>
 
   <details>
   <summary>Sprint 3</summary>
-     Contenido aqui
+     En la última semana, se espera que armen un dashboard interactivo, junto con un análisis de los datos que hayan trabajado. Deben incluir los KPI 's que determinaron como importantes para el análisis realizado, y preparar un storytelling con el mismo.
+
+
+Para los grupos de cinco personas, o en el caso de que el proyecto lo requiera, va a ser obligatorio tener por lo menos implementados modelos, y se esté comenzando a trabajar en un producto de ML (el cuál puede ser un MVP esta semana, y luego ser terminado para la última Demo). Ejemplos de productos: calculadora de costos de envíos según código postal, clasificación de magnitud de sismos, recomendación de días y horarios para pagar tarifas más bajas.
   </details>
   
 </details>
@@ -120,11 +162,29 @@ Estos conjuntos de datos incluyen información detallada sobre ubicaciones comer
 
 La elección adecuada del stack tecnológico en ciencia de datos es clave para maximizar la eficiencia y el rendimiento, garantizar la escalabilidad, facilitar la colaboración, simplificar el mantenimiento y asegurar una integración fluida. Elegir correctamente permite alinear las herramientas con las necesidades específicas del proyecto, mejorando su capacidad para resolver problemas y adaptarse a cambios futuros, lo que resulta fundamental para el éxito y la sostenibilidad del proyecto.
 
+## KPI
+
+El promedio de reseñas, el impacto del proyecto y la reputación online. A continuación se describen los fundamentos de cada uno de ellos.
+
+El promedio de reseñas
+El promedio de reseñas refleja la satisfacción general de los clientes con la experiencia en el hotel. Las reseñas proporcionan una retroalimentación directa de los huéspedes sobre diversos aspectos, como el servicio al cliente, la limpieza, las comodidades, la calidad de las habitaciones, etc.
+
+El impacto del proyecto
+El impacto del proyecto se refiere a los cambios tangibles que la expansión de la cadena de hoteles Wyndham tiene en diversos aspectos, como ingresos, cuota de mercado, satisfacción del cliente, etc.
+
+Reputación online
+La reputación online se refiere a la percepción general del hotel por parte de los clientes en plataformas digitales como TripAdvisor, Google Reviews, Booking.com, entre otras. Incluye el promedio de reseñas, comentarios positivos y negativos, y la respuesta del hotel a las críticas.
+
+Al considerar estos KPI, la expansión de la cadena de hoteles Wyndham puede enfocarse en mejorar la experiencia del cliente, medir el impacto de la expansión y gestionar proactivamente su reputación en línea para garantizar el éxito del proyecto.
+
+![KPI](assets/KPI.png)
+
+
 ## Equipo BIDATING
 
 |      |      |      |
 | :--: | :--: | :--: |
-| ![Marco](assets/Foto_perfil_Marco.jpg)<br>**Marco**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE1) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE1) | ![Paulo](assets/Foto_perfil_Paulo.jpg)<br>**Paulo**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE2) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE2) | ![Kevin](assets/Foto_perfil_Kevin.jpg)<br>**Kevin**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE3) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE3) |
+| ![Marco](assets/Foto_perfil_Marco.jpg)<br>**Marco**<br>[<img src="assets/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/marco-antonio-caro-22459711b) [<img src="assets/github.png" style="width:20px;">](https://github.com/marco11235813) | ![Paulo](assets/Foto_perfil_Paulo.jpg)<br>**Paulo**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE2) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE2) | ![Kevin](assets/Foto_perfil_Kevin.jpg)<br>**Kevin**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE3) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE3) |
 | ![Edgar](assets/Foto_perfil_Edgar.jpg)<br>**Edgar**<br>[<img src="assets/linkedin.png" style="width:20px;">](https:.linkedin.com/in/jesteban77/) [<img src="assets/github.png" style="width:20px;">](https://github.com/JavierEdgarEsteban77) | ![Victor](assets/Foto_perfil_Victor.jpg)<br>**Victor**<br>[<img src="assets/linkedin.png" style="width:20px;">](https://www.linkedin.com/in/orestesvictor/) [<img src="assets/github.png" style="width:20px;">](https://github.com/orestes-victor) | ![Fernanda](assets/Foto_perfil_Fernanda.jpg)<br>**Fer**<br>[<img src="assets/linkedin.png" style="width:20px;">](LINK_LINKEDIN_INTEGRANTE6) [<img src="assets/github.png" style="width:20px;">](LINK_GITHUB_INTEGRANTE6) |
 
 ## Licencia

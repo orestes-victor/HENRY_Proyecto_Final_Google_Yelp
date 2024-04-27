@@ -6,6 +6,12 @@ from fastapi.responses import HTMLResponse
 
 app = FastAPI()
 
+@app.get("/", response_class=HTMLResponse)
+def homepage():
+    return "¡Hola! Esta es la página de inicio de mi aplicación."
+
+
+
 @app.get("/MODELO/", response_class=HTMLResponse)
 def formulario_variables():
     formulario = """
