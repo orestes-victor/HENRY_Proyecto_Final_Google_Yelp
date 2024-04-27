@@ -1,14 +1,15 @@
 
 from fastapi import FastAPI, Form
 from fastapi.responses import HTMLResponse
+import pandas as pd
 
-#df_sorted = pd.read_csv()
+df_sorted = pd.read_csv("data_modelada.csv")
 
 app = FastAPI()
 
 @app.get("/", response_class=HTMLResponse)
 def homepage():
-    return "¡Hola! Esta es la página de inicio de mi aplicación."
+    return "Bidating..."
 
 
 
@@ -40,20 +41,20 @@ def formulario_variables():
 
 @app.get("/caudal-consumo", response_class=HTMLResponse)
 def caudal_consumo():
-    #cc = df_sorted.sort_values(by= 'REVIEW_COUNT', ascending= False).head(20)
-    return "se miestran 20"
+    cc = df_sorted.sort_values(by= 'REVIEW_COUNT', ascending= False).head(20)
+    return cc
 
 @app.get("/participación-consumidor", response_class=HTMLResponse)
 def participación_consumidor():
-    #pc = df_sorted.sort_values(by= ['REVIEW_COUNT', 'RATING'], ascending= (False, False)).head(20)
-    return "Aquí podrías mostrar resultados."
+    pc = df_sorted.sort_values(by= ['REVIEW_COUNT', 'RATING'], ascending= (False, False)).head(20)
+    return pc
 
 @app.get("/val-competencia", response_class=HTMLResponse)
 def val_competencia():
-    #vc = df_sorted.sort_values(by= ['RATING_HOTEL', 'RATING'], ascending= (False, False)).head(20)
-    return "Aquí podrías mostrar resultados basados en el caudal de consumo."
+    vc = df_sorted.sort_values(by= ['RATING_HOTEL', 'RATING'], ascending= (False, False)).head(20)
+    return vc
 
 @app.get("/participación-competencia", response_class=HTMLResponse)
 def participación_competencia():
-    return "Aquí podrías mostrar resultados basados en el caudal de consumo."
-
+    pc = df_sorted.sort_values(by= ['RATING_HOTEL', 'REVIEW_COUNT'], ascending= (True, False)).head(20)
+    return pc
