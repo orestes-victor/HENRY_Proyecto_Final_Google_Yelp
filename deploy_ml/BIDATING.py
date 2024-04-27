@@ -3,7 +3,7 @@ from fastapi import FastAPI, Form
 from fastapi.responses import HTMLResponse
 import pandas as pd
 
-df_sorted = pd.read_csv("data_modelada.csv")
+df_sorted = pd.read_csv("data_modelada.csv", header = 0)
 
 app = FastAPI()
 
