@@ -4,6 +4,10 @@ from fastapi.responses import HTMLResponse
 import pandas as pd
 
 df_sorted = pd.read_csv("data_modelada.csv", header = 0)
+df_sorted = df_sorted['STATE,CITY,RATING,REVIEW_COUNT,RATING_HOTEL,PREDICTED_RATING_HOTEL'].str.split(',', expand=True)
+df_sorted = df_sorted.drop(df_sorted.columns[-1], axis=1)
+df_sorted.columns = ['STATE', 'CITY', 'RATING', 'REVIEW_COUNT', 'RATING_HOTEL', 'PREDICTED_RATING_HOTEL']
+
 
 app = FastAPI()
 
