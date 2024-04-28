@@ -46,19 +46,23 @@ def formulario_variables():
 @app.get("/caudal-consumo", response_class=HTMLResponse)
 def caudal_consumo():
     cc = df_sorted.sort_values(by= 'REVIEW_COUNT', ascending= False).head(20)
-    return cc
+    cc_html = cc.to_html()
+    return cc_html
 
 @app.get("/participación-consumidor", response_class=HTMLResponse)
 def participación_consumidor():
     pc = df_sorted.sort_values(by= ['REVIEW_COUNT', 'RATING'], ascending= (False, False)).head(20)
-    return pc
+    pc_html = pc.to_html()
+    return pc_html
 
 @app.get("/val-competencia", response_class=HTMLResponse)
 def val_competencia():
     vc = df_sorted.sort_values(by= ['RATING_HOTEL', 'RATING'], ascending= (False, False)).head(20)
-    return vc
+    vc_html = vc.to_html()
+    return vc_html
 
 @app.get("/participación-competencia", response_class=HTMLResponse)
 def participación_competencia():
     pc = df_sorted.sort_values(by= ['RATING_HOTEL', 'REVIEW_COUNT'], ascending= (True, False)).head(20)
-    return pc
+    pc_html = pc.to_html()
+    return pc_html
