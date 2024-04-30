@@ -180,6 +180,14 @@ Al considerar estos KPI, la expansión de la cadena de hoteles Wyndham puede enf
 ![KPI](assets/KPI.png)
 
 
+## Deploy
+
+Disponibilizamos nuestro Informe Dasboard y nuestro Sistema de Recomendacion en los sigueintes enlaces:
+
+[Dashboard] 
+[Sistema de Recomendacion](https://henry-proyecto-final-google-yelp.onrender.com/MODELO/)
+
+
 ## Equipo BIDATING
 
 |      |      |      |
