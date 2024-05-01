@@ -3,18 +3,41 @@ from fastapi import FastAPI, Form
 from fastapi.responses import HTMLResponse
 import pandas as pd
 
-df_sorted = pd.read_csv("data_modelada.csv", header = 0)
+df_sorted = pd.read_csv("data_modelada.csv")
 df_sorted = df_sorted['STATE,CITY,RATING,REVIEW_COUNT,RATING_HOTEL,PREDICTED_RATING_HOTEL'].str.split(',', expand=True)
 df_sorted = df_sorted.drop(df_sorted.columns[-1], axis=1)
 df_sorted.columns = ['STATE', 'CITY', 'RATING', 'REVIEW_COUNT', 'RATING_HOTEL', 'PREDICTED_RATING_HOTEL']
-
+df_sorted['RATING'] = pd.to_numeric(df_sorted['RATING'], errors='coerce')
+df_sorted['RATING'] = df_sorted['RATING'].astype(float)
+df_sorted['RATING_HOTEL'] = df_sorted['RATING_HOTEL'].astype(float)
+df_sorted['PREDICTED_RATING_HOTEL'] = df_sorted['PREDICTED_RATING_HOTEL'].astype(float)
+df_sorted['REVIEW_COUNT'] = df_sorted['REVIEW_COUNT'].astype(float)
+df_sorted['REVIEW_COUNT'] = df_sorted['REVIEW_COUNT'].round()
+df_sorted['REVIEW_COUNT'] = df_sorted['REVIEW_COUNT'].astype(int)
 
 app = FastAPI()
 
 @app.get("/", response_class=HTMLResponse)
 def homepage():
-    return "Bidating..."
+    title = "Visualización Modelo de Recomendación"
+    subtitle = "Plan de expansión Wyndham Hotels"
+    image_path = "banner.jpeg"
 
+    html_content = f"""
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>{title}</title>
+    </head>
+    <body>
+        <h1>{title}</h1>
+        <h2>{subtitle}</h2>
+        <img src="{image_path}" alt="Banner">
+    </body>
+    </html>
+    """
+
+    return HTMLResponse(content=html_content)
 
 
 @app.get("/MODELO/", response_class=HTMLResponse)
