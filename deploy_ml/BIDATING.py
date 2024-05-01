@@ -33,12 +33,13 @@ def homepage():
         <h1>{title}</h1>
         <h2>{subtitle}</h2>
         <img src="{image_path}" alt="Banner">
+        <br>
+        <a href="/MODELO"><button>Ir al Modelo</button></a>
     </body>
     </html>
     """
 
     return HTMLResponse(content=html_content)
-
 
 @app.get("/MODELO/", response_class=HTMLResponse)
 def formulario_variables():
