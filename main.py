@@ -4,8 +4,8 @@
 import streamlit as st
 import pandas as pd
 
-data = pd.read_parquet('../datasets/data_modelo.parquet')
-# data = pd.read_parquet('datasets/data_modelo.parquet')
+# data = pd.read_parquet('../datasets/data_modelo.parquet')
+data = pd.read_parquet('datasets/data_modelo.parquet')
 
 def recomendacion(target: str, rango: int):
 
